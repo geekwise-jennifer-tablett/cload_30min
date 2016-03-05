@@ -53,12 +53,25 @@ section{
     float:left;
 }
 /*grey_line*/
-.hr{
-   width:90%; 
-}
+
 ul{
   display:inline-block;
-  border:.5rem solid #dddddd;
+}
+li{
+  width:15rem;
+  text-align:center;
+  list-style:none;
+  color:#000000;
+  border:.2rem solid #dddddd;
+  float:left;
+  background-color:#f7f7f7;
+}
+buton{
+   position:relative;
+   border:.2rem solid #dddddd;
+   border-radius:2rem;
+   background-color:#f7f7f7;
+   top:18rem;
 }
 #blue{
     background-color:blue;
