@@ -1,0 +1,62 @@
+html,body{
+    margin:0;
+    padding:0;
+    font:62.5%;
+}
+body{
+    margin:0;
+    padding:0;
+   
+}
+header{
+    margin-top:1rem;
+    height:10rem;
+    width:100%;
+    background-color:#ee9246;
+}
+div{
+    padding:.5rem;
+    text-align: center;
+    display:block;
+    position:relative;
+}
+h1{
+    display:block;
+    color:#ffffff;
+}
+/*top*/
+section{
+    margin:0 auto;
+   height:20rem;
+   width:75%;
+    
+   display:block;
+}
+.div{
+    text-align:center;
+    position: relative;
+    height:50rem;
+    width:calc(1005/3);
+    display:inline-block;
+}
+/*price_box*/
+.price_span{
+   height:15rem;
+   width:15rem;
+   position:relative;
+   display:block;
+   text-align: center;
+   color:#ffffff;
+   font-size:3rem;
+}
+#green{
+    background-color:green;
+    float:left;
+}
+/*grey_line*/
+.hr{
+   width:90%; 
+}
+#blue{
+    background-color:blue;
+}
